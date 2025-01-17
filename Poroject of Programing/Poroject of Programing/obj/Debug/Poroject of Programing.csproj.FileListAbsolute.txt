@@ -1,0 +1,7 @@
+C:\Users\Alireza\source\repos\Poroject of Programing\Poroject of Programing\bin\Debug\Poroject of Programing.exe.config
+C:\Users\Alireza\source\repos\Poroject of Programing\Poroject of Programing\bin\Debug\Poroject of Programing.exe
+C:\Users\Alireza\source\repos\Poroject of Programing\Poroject of Programing\bin\Debug\Poroject of Programing.pdb
+C:\Users\Alireza\source\repos\Poroject of Programing\Poroject of Programing\obj\Debug\Poroject of Programing.csproj.AssemblyReference.cache
+C:\Users\Alireza\source\repos\Poroject of Programing\Poroject of Programing\obj\Debug\Poroject of Programing.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\source\repos\Poroject of Programing\Poroject of Programing\obj\Debug\Poroject of Programing.exe
+C:\Users\Alireza\source\repos\Poroject of Programing\Poroject of Programing\obj\Debug\Poroject of Programing.pdb
