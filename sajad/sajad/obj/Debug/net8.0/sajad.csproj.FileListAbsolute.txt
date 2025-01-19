@@ -1,0 +1,4 @@
+E:\C# demo\sajad\sajad\obj\Debug\net8.0\sajad.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# demo\sajad\sajad\obj\Debug\net8.0\sajad.AssemblyInfoInputs.cache
+E:\C# demo\sajad\sajad\obj\Debug\net8.0\sajad.AssemblyInfo.cs
+E:\C# demo\sajad\sajad\obj\Debug\net8.0\sajad.csproj.CoreCompileInputs.cache
